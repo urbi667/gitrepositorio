@@ -4,3 +4,8 @@ Tercera linea
 Cuarta linea
 Quinta linea
 Sexta linea
+<<<<<<< HEAD
+=======
+Septima linea
+
+>>>>>>> actividad3
